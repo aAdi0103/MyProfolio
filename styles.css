@@ -688,6 +688,9 @@ small {
 	color: hsl(160, 100%, 70%);
 	align-items: flex-end;
 }
+.resume{
+	margin-left: 30vw;
+}
 
 /* responsiveness */
 @media screen and (max-width: 50em) {
